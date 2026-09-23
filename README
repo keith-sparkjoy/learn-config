@@ -1,0 +1,7 @@
+# learn-config
+
+An example python program to learn how to read .conf files.
+
+I have a screen scraping program I'm writing for the farm that has login credentials that I don't want in my git repo, so I'd like to stick them in a creds.conf file that will be added to .gitignore. But I'm new to python and I need to learn how to access that data using python conf libs. Should be fun!
+
+
